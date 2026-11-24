@@ -1,0 +1,22 @@
+ROBIN SINGH — GITHUB PROFILE README PACKAGE
+
+CONTENTS
+- README.md
+- assets/glass-hero.gif
+
+INSTALLATION
+1. Open the repository named RobinSingh11195 (the profile repository).
+2. Upload the complete assets folder to the repository root.
+3. Replace the root README.md with this package's README.md.
+4. Commit both changes to the main branch.
+5. Open https://github.com/RobinSingh11195 and refresh.
+
+IMPORTANT
+- The README uses a locally hosted animated GIF hero. Keep the file at assets/glass-hero.gif.
+- GitHub profile READMEs support Markdown, selected HTML, images and GIFs.
+- They do not run custom CSS or JavaScript. Therefore true page-wide CSS backdrop-filter blur,
+  hover transitions, animated navigation, and interactive cards cannot be implemented inside
+  a README. The glass look is provided by the animated GIF plus coordinated panels, tables,
+  spacing and muted cool-color image assets.
+- Typing and statistics images depend on external services.
+- The contribution graph and stats can be empty or delayed if GitHub activity is unavailable.
